@@ -72,7 +72,7 @@ st.markdown("---")
 st.markdown(
     """
     <div style='text-align: center;'>
-        <strong>Made by <a href='https://github.com/HammadMustafa' target='_blank'>Hammad Mustafa</a></strong>
+        <strong>Made by <a href='https://github.com/HammadMustafa07' target='_blank'>Hammad Mustafa</a></strong>
     </div>
     """,
     unsafe_allow_html=True
